@@ -10,12 +10,11 @@ using System.Windows.Forms;
 
 namespace Carble_Rent_a_Car
 {
-    public partial class Form1 : Form
+    public partial class FrmLogin : Form
     {
-        public Form1()
+        public FrmLogin()
         {
             InitializeComponent();
-            // testni komentar
         }
     }
 }

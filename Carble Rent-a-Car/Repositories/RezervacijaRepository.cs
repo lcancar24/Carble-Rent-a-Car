@@ -1,8 +1,8 @@
 ﻿using System;
 
-public class Class1
+public class RezervacijaRepository
 {
-	public Class1()
+	public static Servis()
 	{
 	}
 }
